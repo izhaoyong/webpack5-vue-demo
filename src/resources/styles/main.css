@@ -1,0 +1,11 @@
+@font-face {
+    font-family: MyFont;
+    src: url(~@/resources/fonts/SourceHanSansSC-Regular.otf) format('otf'),
+        url(~@/resources/fonts/SourceHanSansCN-VF.ttf.woff2) format('woff2'),
+        url(~@/resources/fonts/SourceHanSansCN-VF.ttf.woff2) format('woff');
+}
+
+.app {
+    color: red;
+    /* color: yellow; */
+}

@@ -1,0 +1,4 @@
+{
+    "**/*.vue": "npx prettier",
+    "*": "echo 0",
+}
